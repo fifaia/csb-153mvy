@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fifaia.github.io/csb-153mvy/static/css/main.ab3e846a.chunk.css",
+    "main.js": "https://fifaia.github.io/csb-153mvy/static/js/main.905d576c.chunk.js",
+    "main.js.map": "https://fifaia.github.io/csb-153mvy/static/js/main.905d576c.chunk.js.map",
+    "runtime-main.js": "https://fifaia.github.io/csb-153mvy/static/js/runtime-main.5dc6d86d.js",
+    "runtime-main.js.map": "https://fifaia.github.io/csb-153mvy/static/js/runtime-main.5dc6d86d.js.map",
+    "static/js/2.30fb285d.chunk.js": "https://fifaia.github.io/csb-153mvy/static/js/2.30fb285d.chunk.js",
+    "static/js/2.30fb285d.chunk.js.map": "https://fifaia.github.io/csb-153mvy/static/js/2.30fb285d.chunk.js.map",
+    "index.html": "https://fifaia.github.io/csb-153mvy/index.html",
+    "static/css/main.ab3e846a.chunk.css.map": "https://fifaia.github.io/csb-153mvy/static/css/main.ab3e846a.chunk.css.map",
+    "static/js/2.30fb285d.chunk.js.LICENSE.txt": "https://fifaia.github.io/csb-153mvy/static/js/2.30fb285d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc6d86d.js",
+    "static/js/2.30fb285d.chunk.js",
+    "static/css/main.ab3e846a.chunk.css",
+    "static/js/main.905d576c.chunk.js"
+  ]
+}
